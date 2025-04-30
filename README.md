@@ -1,8 +1,9 @@
 # 👋 Hello
-## About me
+
+## 🔎 About me
 Hello! My name is Luan, I am 17 years old and currently studying Information Technology. I have a strong interest in the field and a growing curiosity about its many areas. I am committed to building my future in programming and continuously developing my technical skills.
 
-## Features
+## 🚀 Features
 > - 🧑‍💻 Studying programming
 > - 🖥️ Desire to learn more about the world of programming
 > - 📍 In search of constant learning and new challenges
